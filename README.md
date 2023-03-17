@@ -1,6 +1,6 @@
 <!-- Heading -->
 ## Hello World 👋
-#### My name is JinHyeok SEO. I'm in South-Korea. I aim to be a full stack generalist --- who can design and develop.
+#### My name is **JinHyeok SEO**. I'm in South-Korea. I aim to be a *full stack generalist* who can design and develop.
 
 <!--
 **JinHyeokSEO/JinHyeokSEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
