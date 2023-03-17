@@ -1,6 +1,11 @@
 <!-- Heading -->
-## Hello World 👋
-##### My name is JinHyeok SEO. I'm in South-Korea.
+#### 👋 Hello! I'm JinHyeok SEO. I'm in South-Korea.
+##### I enjoy gym, basketball, hiking.
+##### I hope to develope every gorgeous tings.
+___
+#### ⚡Skills
+<img src="https://img.shields.io/badge/HTML5-e34f26?style=round-square&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=round-square&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769ad?style=round-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=round-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-f7901e?style=round-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6db33f?style=round-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/React-61dafb?style=round-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=round-square&logo=Node.js&logoColor=white"/>
 
 
 <!--
